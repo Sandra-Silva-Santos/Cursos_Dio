@@ -8,7 +8,7 @@
 
 [Jogo Naves e Resgate](https://github.com/Sandra-Silva-Santos/Cursos_Dio/tree/main/Jogo%20Resgate)
 
-[Jogo Genius Game](Fundamentos%20Aritméticos%20em%20JavaScript/Exibindo%20Numeros%20Pares.js)
+[Jogo Genius Game](https://github.com/Sandra-Silva-Santos/Cursos_Dio/tree/main/Genius%20Game)
 
 [Clone da Página Netflix](https://github.com/Sandra-Silva-Santos/Cursos_Dio/tree/main/Gameflix)
 
