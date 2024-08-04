@@ -1,12 +1,13 @@
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
-        double saldo = 15;
-        double valorSolicitado = 22;
+        double saldo = 26;
+        double valorSolicitado = 16;
         if (valorSolicitado <= saldo) {
             saldo -= valorSolicitado;
-            System.out.println("Saque realizado com sucesso!");
+            System.out.println ("Saque de:  " + valorSolicitado + " realizado com sucesso!");
+            System.out.println("Saldo atual: " + saldo);
         } else {
-            System.out.println("Saldo insuficiente!");
+            System.out.println("Saldo insuficiente para realizar o saque de " + valorSolicitado);
         }
 
     }
